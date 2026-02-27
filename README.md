@@ -48,7 +48,7 @@
   | | |
   |:--|:--|
   | Email | how30909@naver.com |
-  | Portfolio | [Notion](https://www.notion.so/227cd66266a080798a79c53c03311d79) |
+  | Portfolio | [Oopy](https://prop30909.oopy.io) |
 
   ---
 
