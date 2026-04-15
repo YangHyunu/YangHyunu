@@ -7,15 +7,14 @@
 <div>
 
   ## About Me
-
-  :mortar_board: 중앙대학교 응용통계학과 졸업<br/>
-  :tent: 네이버 부스트캠프 AI Tech 8기<br/>
-  :satellite: SKT FLY AI Challenger 5기<br/>
+  
+  :mortar_board: Bachelor of Statistics in Applied Statistics, Chung-Ang University<br/>
+  :tent: Naver Boostcamp AI Tech 8th<br/>
+  :satellite: SKT FLY AI Challenger 5th<br/>
   <br/>
-  LLM 추론 경로 정렬, 프롬프트 자동 최적화, 에이전트 아키텍처 설계를 해왔습니다.<br/>
-  현재는 Context Engineering과 Agentic Systems를 탐구하고 있습니다.
+  Currently building persona & long-term memory systems for Companion AI.<br/>
   <br/>
-  <br/>
+  Experienced in LLM fine-tuning (ORPO), automated prompt optimization (TextGrad), and agent architecture design.
 
   ### Tech Stack
 
